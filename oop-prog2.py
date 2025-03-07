@@ -1,3 +1,2 @@
-# Prog02: Print "Equal" when numbers are the same
-a, b = map(float, input("Enter two numbers: ").split())
+a = float(input()); b = float(input())
 if a == b: print("Equal")

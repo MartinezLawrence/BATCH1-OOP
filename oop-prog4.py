@@ -1,3 +1,2 @@
-# Prog04: Print the product of two numbers
-a, b = map(float, input("Enter two numbers: ").split())
+a = float(input()); b = float(input())
 print(a * b)
